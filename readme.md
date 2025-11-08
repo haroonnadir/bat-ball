@@ -1,5 +1,5 @@
 # Bat Ball - animation
 
-# [Preview the site](https://alsiam.github.io/web-projects/bat-ball)
+# [Preview the site](/web-projects/bat-bal)
 
 ![image info](../assets/images/bat-ball.png)
